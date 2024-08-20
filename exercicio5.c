@@ -10,7 +10,7 @@ int main() {
 	scanf("%f", &reajuste);
 	
 	salariofinal = (float)salario + (salario * reajuste / 100);
-	printf("O novo salario do funcionário e: %.2f", salariofinal);
+	printf("O novo salario do funcionario e: %.2f", salariofinal);
 	
 	return 0;
 	

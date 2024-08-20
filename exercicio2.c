@@ -10,7 +10,7 @@ int main() {
 	scanf("%d", &h);
 	
 	a = b*h;
-	printf("A area do retangulo e:= %d\n", a);
+	printf("A area do retangulo e: %d\n", a);
 	
 	return 0;
 	
